@@ -1,0 +1,9 @@
+{
+  "generator-ptz-graphql": {
+    "promptValues": {
+      "appname": "ptz-maproutes-graphql",
+      "githubAuthor": "polutz",
+      "runNpmInstall": true
+    }
+  }
+}
